@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87a1249c-a0cf-4082-81ba-073f26b1f9c3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="secondnodeproject" />
+  </component>
+  <component name="ProjectId" id="1UC2ErEzs0BJBkjIQchxLoidX0L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.13.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/txt" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/txt" />
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../node-farm/index.js" working-dir="$PROJECT_DIR$/../node-farm">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87a1249c-a0cf-4082-81ba-073f26b1f9c3" name="Default Changelist" comment="" />
+      <created>1574846148016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574846148016</updated>
+      <workItem from="1574846151109" duration="2443000" />
+      <workItem from="1575370173646" duration="75000" />
+      <workItem from="1575370510176" duration="33000" />
+      <workItem from="1575370557762" duration="2799000" />
+      <workItem from="1575373779752" duration="680000" />
+      <workItem from="1575374475405" duration="1504000" />
+      <workItem from="1575381624010" duration="1766000" />
+      <workItem from="1575465939159" duration="8000" />
+      <workItem from="1575465964920" duration="136000" />
+      <workItem from="1575644878941" duration="964000" />
+      <workItem from="1576834478543" duration="77000" />
+      <workItem from="1577346990267" duration="12000" />
+      <workItem from="1577347018152" duration="59000" />
+      <workItem from="1577347090822" duration="3440000" />
+      <workItem from="1577350546795" duration="3044000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1022" y="184" width="800" height="673" key="#Vim_Emulation" timestamp="1577348231032">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state x="1022" y="184" width="800" height="673" key="#Vim_Emulation/0.27.1920.998@0.27.1920.998" timestamp="1577348231032" />
+    <state x="643" y="254" width="624" height="540" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577346995704">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state x="643" y="254" width="624" height="540" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.27.1920.998@0.27.1920.998" timestamp="1577346995704" />
+    <state x="743" y="284" width="424" height="480" key="FileChooserDialogImpl" timestamp="1575466098354">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state x="743" y="284" width="424" height="480" key="FileChooserDialogImpl/0.27.1920.998@0.27.1920.998" timestamp="1575466098354" />
+    <state width="942" height="235" key="GridCell.Tab.0.bottom" timestamp="1574848886292">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state width="942" height="235" key="GridCell.Tab.0.bottom/0.27.1920.998@0.27.1920.998" timestamp="1574848886292" />
+    <state width="942" height="235" key="GridCell.Tab.0.center" timestamp="1574848886290">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state width="942" height="235" key="GridCell.Tab.0.center/0.27.1920.998@0.27.1920.998" timestamp="1574848886290" />
+    <state width="942" height="235" key="GridCell.Tab.0.left" timestamp="1574848886289">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state width="942" height="235" key="GridCell.Tab.0.left/0.27.1920.998@0.27.1920.998" timestamp="1574848886289" />
+    <state width="942" height="235" key="GridCell.Tab.0.right" timestamp="1574848886291">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state width="942" height="235" key="GridCell.Tab.0.right/0.27.1920.998@0.27.1920.998" timestamp="1574848886291" />
+    <state x="898" y="155" key="SettingsEditor" timestamp="1577347419419">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state x="898" y="155" key="SettingsEditor/0.27.1920.998@0.27.1920.998" timestamp="1577347419419" />
+    <state x="1192" y="217" width="470" height="611" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1575374054673">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state x="1192" y="217" width="470" height="611" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.998@0.27.1920.998" timestamp="1575374054673" />
+    <state x="1101" y="242" key="run.anything.popup" timestamp="1575371685884">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state x="1101" y="242" key="run.anything.popup/0.27.1920.998@0.27.1920.998" timestamp="1575371685884" />
+    <state x="1090" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1577347844902">
+      <screen x="0" y="27" width="1920" height="998" />
+    </state>
+    <state x="1090" y="243" width="672" height="678" key="search.everywhere.popup/0.27.1920.998@0.27.1920.998" timestamp="1577347844902" />
+  </component>
+</project>
